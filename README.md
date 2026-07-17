@@ -26,5 +26,5 @@ Building end-to-end AI applications with Python.
 
 ## Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-- 📧 Email: your@email.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sourav-chandra-5a3112265
+- 📧 Email: souravchandra133@gmail.com
